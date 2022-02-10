@@ -1,11 +1,10 @@
 ### Fala Tropa Sou o Pedro e esse é o meu Perfil no GitHub 👋
 
 
--  Atualmente estou focado nos estudos para me tornar um Desenvolvedor FullStack
+-  Estudante de Engenharia de Software 
 -  No momento estou estudando ReactJS e TyperScript
 -  Iniciei nesse mundo por influência das grandes BigTech (sou muito fã da cultura da empresas de tecnologia) e também pelo nosso queridissímo MR.ROBOT kkkkkk
--  Nas horas vagas estou sempre curtindo a família ou Treinando Jiu-Jistu 
--  E esse é meu mundo 
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
