@@ -3,7 +3,6 @@
 
 -  Estudante de Engenharia de Software 
 -  No momento estou estudando ReactJS e TyperScript
--  Iniciei nesse mundo por influência das grandes BigTech (sou muito fã da cultura da empresas de tecnologia) e também pelo nosso queridissímo MR.ROBOT kkkkkk
 
 
 <div align="center">
