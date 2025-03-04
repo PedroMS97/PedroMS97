@@ -1,7 +1,7 @@
 ### Fala Tropa Sou o Pedro e esse é o meu Perfil no GitHub 👋
 
 
--  Estudante de Engenharia de Software 
+-  Engenheiro de Software 
 -  No momento estou estudando ReactJS e TyperScript
 
 
